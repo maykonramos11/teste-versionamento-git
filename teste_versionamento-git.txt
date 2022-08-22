@@ -1,0 +1,39 @@
+Lista de comandos utilizados no GIT (Principais):
+
+(cd) = para navegar entre pastas
+
+git add index.html = para marcar o arquivo para ser salvo (commit);
+
+(git status) = para verificar que o arquivo agora mudou de estado e está pronto para ser salvo (commit);
+
+(cd..) = volta uma pasta
+
+(mkdir) = cria uma nova pasta
+
+=====================================================================================================================
+
+(git init)
+
+(clear) = limpa as informações da tela
+
+(exit) = fecha o gitbash
+
+(git remote add) = adiciona repositorio remoto
+
+(git remote -v) = verifica o endereço
+
+(git clone) = clona uma pasta
+
+(git push local master)= envia as alterações para o repositório remoto
+
+(git pull) = transfere dados de um repositório remoto para um repositório próprio
+
+(git checkout master) = voltar para master
+
+(git merge) = Realiza a união entre as branches
+
+(git reset HEAD) = volta para local de trabalho
+
+(git revert) = cria um novo commit desfazendo as alterações
+
+(git diff) = Mostra a diferença entre os codigos
